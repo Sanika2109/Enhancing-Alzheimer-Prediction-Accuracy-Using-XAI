@@ -5,3 +5,4 @@ shap==0.44.0
 matplotlib==3.7.2
 seaborn==0.12.2
 gradio==3.44.0
+catboost==1.2.2
